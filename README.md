@@ -38,7 +38,7 @@ This project showcases various animated button styles with smooth transitions, h
 ## 🚀 Live Demo
 
 Experience the animated buttons live:  
-**[🌐 View Live Site](https://uditprakashyadav-7393.github.io/)**
+**[🌐 View Live Site](https://uditprakashyadav-7393.github.io/ANIMATED-BUTTONS/)**
 
 ---
 
